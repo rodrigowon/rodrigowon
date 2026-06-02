@@ -7,7 +7,7 @@
 
 <pre>
 ┌──────────────────────────────────────────────────────────────┐
-│                 RODRIGO HENRIQUE DA SILVA                   │
+│                 RODRIGO WON                  │
 │      DEVELOPER INTELLIGENCE DOSSIER • PUBLIC README          │
 │                                                              │
 │      Backend • APIs • SaaS Base • Automation • Support       │

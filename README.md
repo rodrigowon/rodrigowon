@@ -138,8 +138,17 @@ I care about code that is not only functional, but also organized, maintainable,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rodrigowon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=22C55E&text_color=E5E7EB&icon_color=FACC15" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigowon&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=22C55E&text_color=E5E7EB" alt="Top Languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=rodrigowon&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22C55E&amp;text_color=E5E7EB&amp;icon_color=FACC15"
+    alt="Rodrigo Henrique GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigowon&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22C55E&amp;text_color=E5E7EB"
+    alt="Rodrigo Henrique Top Languages"
+  />
 
 </div>
 

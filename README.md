@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/rodrigowon">
-    <img src="https://img.shields.io/badge/GitHub-rodrigosilvadeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-rodrigowon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://rodrigowon.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-rodrigowon.netlify.app-22C55E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />

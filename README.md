@@ -7,7 +7,7 @@
 
 <pre>
 ┌──────────────────────────────────────────────────────────────┐
-│                 RODRIGO WON                  │
+│                       RODRIGO WON                            │
 │      DEVELOPER INTELLIGENCE DOSSIER • PUBLIC README          │
 │                                                              │
 │      Backend • APIs • SaaS Base • Automation • Support       │

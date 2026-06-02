@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rodrigosilvadeveloper">
+  <a href="https://github.com/rodrigowon">
     <img src="https://img.shields.io/badge/GitHub-rodrigosilvadeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://rodrigowon.netlify.app">

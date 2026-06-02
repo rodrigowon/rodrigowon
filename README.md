@@ -1,30 +1,38 @@
 <!--
-  README Profile redesign inspired by the public UAP/PURSUE archive aesthetic.
+  README Profile redesign inspired by public UAP/UFO archive aesthetics.
   Unofficial visual concept. Not affiliated with any government agency.
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:064E3B,100:0F172A&text=RODRIGO%20HENRIQUE%20DA%20SILVA&fontColor=E5E7EB&fontSize=34&fontAlignY=38&desc=Developer%20Intelligence%20Dossier%20%7C%20Systems%20%26%20SaaS%20Operations&descAlignY=58&descSize=14" alt="Rodrigo Henrique da Silva banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-CLEARED%20FOR%20BUILD-22C55E?style=for-the-badge&labelColor=020617" alt="Status: Cleared for Build" />
-  <img src="https://img.shields.io/badge/CASE%20FILE-RHS--DEV-94A3B8?style=for-the-badge&labelColor=020617" alt="Case file RHS DEV" />
-  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-0EA5E9?style=for-the-badge&labelColor=020617" alt="Location Brazil" />
-  <img src="https://img.shields.io/badge/FOCUS-API%20%7C%20SAAS%20%7C%20AUTOMATION-F59E0B?style=for-the-badge&labelColor=020617" alt="Focus API SaaS Automation" />
-</p>
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                 RODRIGO HENRIQUE DA SILVA                   │
+│      DEVELOPER INTELLIGENCE DOSSIER • PUBLIC README          │
+│                                                              │
+│      Backend • APIs • SaaS Base • Automation • Support       │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
-<p align="center">
-  <a href="https://github.com/rodrigowon">
-    <img src="https://img.shields.io/badge/GitHub-rodrigowon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://rodrigowon.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-rodrigowon.netlify.app-22C55E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:rodrigosilvadeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/CASE%20FILE-RHS--DEV-94A3B8?style=for-the-badge&labelColor=020617" alt="Case File RHS DEV" />
+<img src="https://img.shields.io/badge/STATUS-CLEARED%20FOR%20BUILD-22C55E?style=for-the-badge&labelColor=020617" alt="Status Cleared for Build" />
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-0EA5E9?style=for-the-badge&labelColor=020617" alt="Location Brazil" />
+<img src="https://img.shields.io/badge/FOCUS-API%20%7C%20SAAS%20%7C%20AUTOMATION-F59E0B?style=for-the-badge&labelColor=020617" alt="Focus API SaaS Automation" />
+
+<br />
+<br />
+
+<a href="https://github.com/rodrigowon">
+  <img src="https://img.shields.io/badge/GitHub-rodrigowon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub rodrigowon" />
+</a>
+<a href="https://rodrigowon.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-rodrigowon.netlify.app-22C55E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:rodrigosilvadeveloper@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
 
@@ -33,6 +41,7 @@
 ```txt
 [ACCESS LEVEL]      PUBLIC_README
 [OPERATOR]          Rodrigo Henrique da Silva
+[HANDLE]            github.com/rodrigowon
 [ROLE]              Assistente de Sistema • Suporte N1/N2 • Desenvolvedor
 [REGION]            Brazil
 [CURRENT VECTOR]    Backend, APIs, SaaS base, automation and operational systems
@@ -45,11 +54,11 @@ My current direction is to evolve from technical support and systems operations 
 
 ---
 
-## ▣ DIRECTIVE
+## ▣ PRIME DIRECTIVE
 
 > Build systems that are simple to operate, hard to break, easy to evolve, and valuable for real businesses.
 
-I care about code that is not just functional, but also organized, maintainable, secure, and ready to scale with discipline.
+I care about code that is not only functional, but also organized, maintainable, secure, and ready to scale with discipline.
 
 ---
 
@@ -116,37 +125,36 @@ I care about code that is not just functional, but also organized, maintainable,
 
 ## ▣ FIELD NOTES
 
-<table>
-  <tr>
-    <td><strong>Architecture</strong></td>
-    <td>Designing systems with organization, separation of responsibility and future maintainability.</td>
-  </tr>
-  <tr>
-    <td><strong>Security Mindset</strong></td>
-    <td>Authentication, permissions, multi-tenant isolation and prevention of accidental data exposure.</td>
-  </tr>
-  <tr>
-    <td><strong>Business Logic</strong></td>
-    <td>Turning real operational pain into structured software workflows.</td>
-  </tr>
-  <tr>
-    <td><strong>Support Background</strong></td>
-    <td>Practical experience with users, systems, tickets, troubleshooting and real production problems.</td>
-  </tr>
-</table>
+| Area | Evidence |
+|---|---|
+| **Architecture** | Designing systems with organization, separation of responsibility and future maintainability. |
+| **Security Mindset** | Authentication, permissions, multi-tenant isolation and prevention of accidental data exposure. |
+| **Business Logic** | Turning real operational pain into structured software workflows. |
+| **Support Background** | Practical experience with users, systems, tickets, troubleshooting and real production problems. |
 
 ---
 
 ## ▣ GITHUB TELEMETRY
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rodrigosilvadeveloper&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=22C55E&text_color=E5E7EB&icon_color=FACC15" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosilvadeveloper&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=22C55E&text_color=E5E7EB" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigosilvadeveloper&bg_color=020617&color=E5E7EB&line=22C55E&point=FACC15&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rodrigowon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=22C55E&text_color=E5E7EB&icon_color=FACC15" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigowon&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=22C55E&text_color=E5E7EB" alt="Top Languages" />
+
+</div>
+
+> Note: These cards depend on an external GitHub stats service. If they fail temporarily, the README content remains valid and the images usually return after cache/service refresh.
+
+---
+
+## ▣ REPOSITORY SIGNALS
+
+```txt
+[PUBLIC PROFILE]    github.com/rodrigowon
+[KNOWN PROJECTS]    painel-suporte • rodrigowon • orbit
+[PRIMARY TRACK]     support tools, portfolio, web systems and backend evolution
+[BUILD STYLE]       simple first, organized always, scalable when needed
+```
 
 ---
 
@@ -154,6 +162,8 @@ I care about code that is not just functional, but also organized, maintainable,
 
 ```txt
 [06 02 26] README visual redesign initialized
+[06 02 26] Broken dynamic banner removed
+[06 02 26] GitHub telemetry username corrected to rodrigowon
 [ACTIVE]    Backend and SaaS architecture studies
 [ACTIVE]    Professional portfolio and developer identity upgrade
 [ACTIVE]    Building cleaner, safer and more scalable projects
@@ -165,10 +175,10 @@ I care about code that is not just functional, but also organized, maintainable,
 
 > Software should feel like infrastructure: reliable, clear, useful, and ready for the next mission.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:22C55E,100:020617" alt="divider" />
-</p>
+<div align="center">
 
-<p align="center">
-  <code>UNOFFICIAL README DOSSIER • DEV PROFILE • RODRIGO HENRIQUE DA SILVA</code>
-</p>
+```txt
+UNOFFICIAL README DOSSIER • DEV PROFILE • RODRIGO HENRIQUE DA SILVA
+```
+
+</div>

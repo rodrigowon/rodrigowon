@@ -40,7 +40,7 @@
 
 ```txt
 [ACCESS LEVEL]      PUBLIC_README
-[OPERATOR]          Rodrigo Henrique da Silva
+[OPERATOR]          Rodrigo Won
 [HANDLE]            github.com/rodrigowon
 [ROLE]              Assistente de Sistema • Suporte N1/N2 • Desenvolvedor
 [REGION]            Brazil

@@ -3,22 +3,6 @@
   Unofficial visual concept. Not affiliated with any government agency.
 -->
 
-
-<!-- Mini game para README de perfil -->
-<div align="center">
-
-  <img src="./assets/ryo-runner.svg" alt="Ryo Runner: mini game animado de perfil GitHub" width="100%" />
-
-  <br />
-
-  <strong>Level atual:</strong> Fullstack em evolução &nbsp;•&nbsp;
-  <strong>Missão:</strong> transformar bugs em aprendizado &nbsp;•&nbsp;
-  <strong>Stack:</strong> Python, SQL, JavaScript, Git
-
-</div>
-
-
-
 <div align="center">
 
 <pre>

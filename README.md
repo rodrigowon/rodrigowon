@@ -42,7 +42,7 @@
 [ACCESS LEVEL]      PUBLIC_README
 [OPERATOR]          Rodrigo Won
 [HANDLE]            github.com/rodrigowon
-[ROLE]              Assistente de Sistema • Suporte N1/N2 • Desenvolvedor
+[ROLE]              Analista de Sistemas • Suporte N2 • Desenvolvedor
 [REGION]            Brazil
 [CURRENT VECTOR]    Backend, APIs, SaaS base, automation and operational systems
 [MISSION STATUS]    Active development / continuous improvement
